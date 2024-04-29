@@ -1,2 +1,2 @@
 requests
-wikipedia
+wikipedia-api
